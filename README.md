@@ -1,6 +1,6 @@
 ![](https://github.com/seazabuky/seazabuky/blob/main/banner.png)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seazabuky&show_icons=true&theme=cobalt)
 
