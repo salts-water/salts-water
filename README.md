@@ -6,7 +6,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seazabuky&repo=Buky-The-Adventure&theme=cobalt&show_owner=true)](https://github.com/seazabuky/Buky-The-Adventure)
 
-<style>
-#span{color:red;}
-</style>
-<h1 id="span">SALTSWATER</h1>
+
