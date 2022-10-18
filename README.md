@@ -1,5 +1,7 @@
 ![](https://github.com/seazabuky/seazabuky/blob/main/banner.png)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seazabuky&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seazabuky&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
