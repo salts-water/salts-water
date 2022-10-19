@@ -11,3 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seazabuky&repo=Buky-The-Adventure&theme=cobalt&show_owner=true)](https://github.com/seazabuky/Buky-The-Adventure)
  
 </div>
+
+<img src="https://raw.githubusercontent.com/seaza/seaza/blob/output/snake.svg" alt="Snake animation" />
+
+###
