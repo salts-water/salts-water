@@ -1,7 +1,8 @@
 <div align="center">
   
-![](https://github.com/seazabuky/seazabuky/blob/main/banner.png)
-
+<p align="center">
+  <img src="https://github.com/seazabuky/seazabuky/blob/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seazabuky&show_icons=true&theme=cobalt)
