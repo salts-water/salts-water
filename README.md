@@ -28,11 +28,8 @@ Welcome to my GitHub profile! I'm a computer science enthusiast with a keen inte
     <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,arduino,unity,c#" />
   </a>
 </p>
-</br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seazabuky&show_icons=true&theme=cobalt)
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=seazabuky&show_icons=true&locale=en&theme=cobalt" alt="seazabuky" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seazabuky&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-Let's dive deep into the fascinating world of computers and cybersecurity together!
+<br>
+<p>Let's dive deep into the fascinating world of computers and cybersecurity together!</p>
