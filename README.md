@@ -19,15 +19,11 @@ Welcome to my GitHub profile! I'm a 3rd-year Computer Science student at Srinakh
 - 🤖 Artificial Intelligence and Machine Learning
 - 🌐 Networking and Systems Administration
 ## Connect with Me
-<a href="mailto:nitis.kdc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-<a href="https://www.linkedin.com/in/nitis-kerdchuay-725b8a28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/nitiskerdchuay">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a>
+<a target="_blank" href="mailto:nitis.kdc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/nitis-kerdchuay-725b8a28a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.kaggle.com/nitiskerdchuay"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a target="_blank" href="https://www.instagram.com/sea_crazyy/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
 <p align="center"><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,unity,c#,linux" />
