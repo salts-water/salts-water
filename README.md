@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Sea - Nitis Kerdchuay
-Welcome to my GitHub profile! I'm a 3rd-year Computer Science student at Srinakharinwirot University with a passion for cybersecurity. Dive into my repositories to explore my diverse projects.
+Welcome to my GitHub profile! I'm a Senior Computer Science student at Srinakharinwirot University with a passion for cybersecurity. Dive into my repositories to explore my diverse projects.
 ## About Me
 
 - 🌊 I go by the name Sea.
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a 3rd-year Computer Science student at Srinakh
 <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
 
 - 🔒 Penetration Testing
-- 🛡️ Network Security
+- 🛡️ Defensive Security
 - 📈 Threat Intelligence
 - 🖥️ Application Security
 ## My Interests
