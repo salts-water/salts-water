@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a 3rd-year Computer Science student at Srinakh
 ## About Me
 
 - 🌊 I go by the name Sea.
-- 🎓 __*3rd-year Computer Science student at Srinakharinwirot University.*__
+- 🎓 __*Senior Computer Science student at <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>.*__
 
 ## My Cybersecurity Interests
 <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
